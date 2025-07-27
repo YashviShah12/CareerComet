@@ -1,11 +1,25 @@
+# Software Design and Testing - Assignment 1
 
-# 📘 CareerComet - Core Concepts Analysis
+**Student ID:** 202412101
+
+**Name:** Shah Yashvi Devangkumar  
+
+---
+
+## 📘 Project Title: CareerComet - An Online Job Portal System
+
+### 🔎 Project Description:
+CareerComet is a web-based job portal designed to connect job seekers with potential employers through a seamless and efficient platform. The system allows job seekers to register, upload resumes, search and apply for jobs, while employers can post job openings, manage applications, and subscribe to premium services. Admins oversee user activities and ensure the platform’s integrity. The portal supports role-based access, real-time job tracking, and a feedback mechanism, aiming to simplify the hiring and job search process.
+
+---
+
+## 🔧 Core Concepts Integral to the Project
 
 This document outlines the key **objects**, **contexts**, and **important information** for the CareerComet job portal project.
 
 ---
 
-## 🔹 1. Objects
+## 🧱 Objects 
 
 | Object Name        | Description |
 |--------------------|-------------|
@@ -21,7 +35,7 @@ This document outlines the key **objects**, **contexts**, and **important inform
 
 ---
 
-## 🔹 2. Contexts
+## 🌐 Contexts 
 
 | Context Module             | Description |
 |----------------------------|-------------|
@@ -37,7 +51,7 @@ This document outlines the key **objects**, **contexts**, and **important inform
 
 ---
 
-## 🔹 3. Important Information (Per Context)
+## 📌 Important Information (Per Context)
 
 | Context                | Important Information |
 |------------------------|------------------------|
@@ -52,5 +66,3 @@ This document outlines the key **objects**, **contexts**, and **important inform
 | **Feedback**           | Feedback includes rating (1-5) and optional comments. Stored with user ID and timestamp. |
 
 ---
-
-*Generated for Assignment 1: Concepts Identification for CareerComet Project*
